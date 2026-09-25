@@ -1,7 +1,7 @@
 ---
 title: "git_01"
 author: "Math_116"
-date: "Fall semester"
+date: "Julian Garcia"
 output: html_document
 ---
 
@@ -47,3 +47,28 @@ After the day was done—
 
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
+
+I wake to see the morning light  
+Shining through my window bright  
+Another day has come my way  
+With something new for me today  
+
+I take my time and clear my mind  
+Leaving yesterday behind  
+Every step can lead somewhere  
+Even when the road's unclear  
+
+I know the journey may be long  
+But every challenge makes me strong  
+I keep moving toward my goal  
+Learning things I didn't know  
+
+Some days are easy, some are tough  
+Sometimes I wonder if I'm enough  
+But I remember why I try  
+And keep my dreams held up high  
+
+The future isn't mine to see  
+But I know who I want to be  
+So I'll keep going day by day  
+And find my own path along the way
